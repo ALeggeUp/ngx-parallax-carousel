@@ -15,10 +15,10 @@
     "stripInternal": true,
     "skipLibCheck": true,
     "outDir": "dist",
-    "rootDir": "./tmp/src-inlined"
+    "rootDir": "./build/tmp/src-inlined"
   },
   "files": [
-    "./tmp/src-inlined/index.ts"
+    "./build/tmp/src-inlined/index.ts"
   ],
   "angularCompilerOptions": {
     "genDir": "dist",

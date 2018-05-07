@@ -22,6 +22,7 @@ Desktop.ini
 coverage/
 demo/
 docs
+build
 tmp
 
 # Library files
