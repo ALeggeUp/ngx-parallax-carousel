@@ -1,3 +1,2 @@
-export { TickTockService } from './services';
-export { TickTockComponent } from './components';
-export { TickTockModule } from './tick-tock.module';
+export { CarouselComponent } from './carousel/carousel.component';
+export { CarouselModule } from './carousel/carousel.module';
