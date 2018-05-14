@@ -7,9 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CarouselComponent implements OnInit {
 
-  constructor() { }
-
-  ngOnInit() {
+  constructor() {
+    console.debug('CarouselComponent constructor');
   }
 
+  public ngOnInit() {
+    console.debug('CarouselComponent init');
+  }
 }
