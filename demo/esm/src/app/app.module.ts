@@ -2,10 +2,10 @@ import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 import { AppComponent } from './app.component';
 
-import { CarouselModule } from '../../lib';
+import { NgxParallaxCarouselModule } from '../../lib';
 
 @NgModule({
-  imports: [ BrowserModule, CarouselModule ],
+  imports: [ BrowserModule, NgxParallaxCarouselModule ],
   declarations: [ AppComponent ],
   bootstrap: [ AppComponent ]
 })

@@ -1,1 +1,1 @@
-export * from './carousel';
+export * from './ngx-parallax-carousel';
